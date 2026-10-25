@@ -1,5 +1,9 @@
 # Pokédex con React Native y Expo
 
+# Integrantes:
+Kevin Pascuales Pérez
+Sebastian Arango Posada
+
 ## Descripción
 Aplicación móvil que consulta la PokéAPI para mostrar Pokémon,
 permitir búsquedas y consultar sus características.
